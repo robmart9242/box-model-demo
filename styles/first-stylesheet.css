@@ -41,15 +41,6 @@ p {
 p {
     text-indent: 50px;
 }
-
-div {
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-    overflow: visible;
-}
-
 p {
     border: 1px solid black;
     outline-style: double;
@@ -84,9 +75,6 @@ img:hover {
     opacity: 1.0;
 }
 
-li a {
-    display: block;
-}
 .active {
     background-color: #4CAF50;
     color: white;
