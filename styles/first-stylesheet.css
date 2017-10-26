@@ -80,10 +80,6 @@ ul {
     list-style-type: square;
 }
 
-ul.b {
-    list-style-type: square;
-}
-
 img:hover {
     opacity: 1.0;
 }
